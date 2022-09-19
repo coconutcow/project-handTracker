@@ -10,4 +10,4 @@ Below is a glimpse of the implementation
 ![right hand](/results/righthand.gif)
 
 ### Left hand
-![left hand](/results/lefthand-Smile.gif)
+![left hand](/results/lefthand.gif)
